@@ -16,3 +16,15 @@ body{
 .main-frame-cal label{
     font-weight: bold;
 }
+
+.home {
+    position: absolute;
+    top: 45px;
+
+    left: 25px;
+    width: 50px;
+}
+
+ i{
+    font-size: 70px !important;
+}
